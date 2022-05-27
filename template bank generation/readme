@@ -1,1 +1,6 @@
-small examples for manually generating template bank 
+Small examples for manually generating template bank.
+-----------------------------------------------------
+
+The nonspinbank.sh file needs to be run in the shell. It employs the zero detuned high power asd(Zero_det_high_P.txt).
+The resulting file is testNonSpin.xml
+The screenshot of how the shell looks like after running the .sh file is shown in nonspinbank_ss.png
